@@ -11,5 +11,5 @@ def multiply(a, b):
     return a * b
 
 
-def divide(a, b):
+def divide_ab(a, b):
     return a / b
